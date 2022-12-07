@@ -1,0 +1,12 @@
+(ns elf-calories
+  (:require [clojure.string :as cstr]
+            [clojure.java.io :as io]))
+
+
+
+;; https://adventofcode.com/2022/day/1
+
+
+(defn run
+  [& opts]
+  (println "HI"))
